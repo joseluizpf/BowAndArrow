@@ -1,6 +1,0 @@
-#ifndef LOCALMPLOOP_H_INCLUDED
-#define LOCALMPLOOP_H_INCLUDED
- 
-void localMPloop();
- 
-#endif // LOCALMPLOOP_H_INCLUDED

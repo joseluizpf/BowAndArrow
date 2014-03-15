@@ -1,1 +1,0 @@
-This is my second game and it's made using allegro. Feel free to improve, play or share it xD

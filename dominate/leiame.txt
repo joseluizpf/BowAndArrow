@@ -1,1 +1,0 @@
-Este é o meu segundo jogo e foi feito usando a biblioteca allegro. Fique a vontade para melhorar, jogar ou compartilhar xD
