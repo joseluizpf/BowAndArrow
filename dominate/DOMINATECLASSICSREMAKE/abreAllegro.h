@@ -1,0 +1,6 @@
+#ifndef ABREALLEGRO_H_INCLUDED
+#define ABREALLEGRO_H_INCLUDED
+ 
+int abreAllegro();
+ 
+#endif // ABREALLEGRO_H_INCLUDED
